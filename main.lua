@@ -1,7 +1,7 @@
 -- ⚙️ Настройки
 local MENU_KEY = Enum.KeyCode.RightShift -- Клавиша открытия меню
 local ESP_COLOR = Color3.fromRGB(255, 50, 50) -- Цвет ESP
-local AIMBOT_KEY = Enum.KeyCode.Q -- Клавиша аима
+local AIMBOT_KEY = Enum.KeyCode.X -- Клавиша аима
 local AIMBOT_FOV = 100 -- Угол захвата
 
 -- 🔧 Системные переменные
