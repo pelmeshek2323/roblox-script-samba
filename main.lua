@@ -4,7 +4,7 @@ local ESP_COLOR = Color3.fromRGB(255, 50, 50)
 local ESP_TRANSPARENCY = 0.7
 
 local AIMBOT_ENABLED = true
-local AIMBOT_KEY = Enum.KeyCode.Q  -- Клавиша для аима
+local AIMBOT_KEY = Enum.KeyCode.x  -- Клавиша для аима
 local AIMBOT_FOV = 100  -- Угол захвата цели (в пикселях)
 local AIMBOT_SMOOTHNESS = 0.2  -- Плавность аима (0.1-1)
 
